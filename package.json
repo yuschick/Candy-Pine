@@ -1,8 +1,8 @@
 {
   "name": "candy-pine",
-  "displayName": "Candy Pine",
+  "displayName": "Candý Pine",
   "description": "A Rosé Pine inspired theme with a darker touch and brighter, harmonious pop.",
-  "version": "0.0.1-beta.1",
+  "version": "0.0.1-beta.2",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -14,10 +14,14 @@
     "type": "git",
     "url": "git+https://github.com/yuschick/Candy-Pine.git"
   },
+  "galleryBanner": {
+		"color": "#161421",
+		"theme": "dark"
+	},
   "contributes": {
     "themes": [
       {
-        "label": "Candy Pine",
+        "label": "Candý Pine",
         "uiTheme": "vs-dark",
         "path": "./themes/candy-pine-color-theme.json"
       }
