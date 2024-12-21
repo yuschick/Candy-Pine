@@ -1,8 +1,8 @@
 {
   "name": "candy-pine",
-  "publisher": "Daniel Yuschick",
+  "publisher": "DanielYuschick",
   "displayName": "Candý Pine",
-  "description": "A Rosé Pine inspired theme with a darker touch and brighter, harmonious pop.",
+  "description": "vsce login <publisher id>",
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.96.0"
