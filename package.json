@@ -5,7 +5,7 @@
   "description": "vsce login <publisher id>",
   "version": "0.1.0",
   "engines": {
-    "vscode": "^1.96.0"
+    "vscode": "^1.93.0"
   },
   "categories": [
     "Themes"
