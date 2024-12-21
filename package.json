@@ -2,8 +2,8 @@
   "name": "candy-pine",
   "publisher": "yuschick",
   "displayName": "Candý Pine",
-  "description": "vsce login <publisher id>",
-  "version": "0.1.1",
+  "description": "Candý Pine is a soft, harmonious and candy-inspired dark theme, based off of the beautiful Rosé Pine.",
+  "version": "0.1.2",
   "engines": {
     "vscode": "^1.93.0"
   },
