@@ -68,6 +68,8 @@
     "dropdown.foreground": "#e4e1f0",
     "dropdown.listBackground": "#1d1a2a",
     "editor.background": "#161421",
+    "editorIndentGuide.activeBackground1": "#716e84",
+		"editorIndentGuide.background1": "#716e8466",
     "editor.findMatchBackground": "#f2b56b33",
     "editor.findMatchBorder": "#f2b56b80",
     "editor.findMatchForeground": "#e4e1f0",
@@ -459,6 +461,8 @@
     "tree.indentGuidesStroke": "#9b97b1",
     "walkThrough.embeddedEditorBackground": "#161421",
     "welcomePage.background": "#161421",
+    "welcomePage.buttonBackground": "#1d1a2a",
+		"welcomePage.buttonHoverBackground": "#272336",
     "widget.shadow": "#1d1a2a4d",
     "window.activeBorder": "#1d1a2a",
     "window.inactiveBorder": "#1d1a2a"
