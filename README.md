@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="assets/candy-pine--icon.webp" width="150" style="border-radius: 50%" />
+    <img src="assets/candy-pine--icon--rounded.webp" width="150" />
     <h2 align="center">Candý Pine for VSCode</h2>
 </p>
 
-<p align="center">Welcome to Candý Pine, a soft, harmonious and candy-inspired dark theme, based off of the beautiful <a href="https://github.com/rose-pine/rose-pine-theme">Roseè Pine</a>.</p>
+<p align="center">Welcome to Candý Pine, a soft, harmonious and candy-inspired dark theme, based off of the beautiful <a href="https://github.com/rose-pine/rose-pine-theme">Rosè Pine</a>.</p>
 
 ## Usage
 
@@ -13,7 +13,6 @@
 
 ## Gallery
 
-> [!NOTE]
 > Font used is [TT Commons Pro](https://typetype.org/fonts/tt-commons-pro/)
 
 **Candý Pine**
